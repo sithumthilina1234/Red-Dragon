@@ -29,21 +29,21 @@ global.ownernomer = '+94774300679' //Owner Number <<<
 global.ownername = '😎sithum thilina //Owner Name
 global.botname = ' ☬sithu༒bot࿐' //Bot Name
 
-global.button = '☰ hi i am sithum thilina ☰' //Costomize A Button Name In Alive Message
-global.btnurl = 'https://wa.me/+94750971915' //Change Your Button's URL
+global.button = '☰ whatsapp ☰' //Costomize A Button Name In Alive Message
+global.btnurl = '𝙆.𝙋𝙧𝙖𝙗𝙝𝙖𝙨𝙝𝙖' //Change Your Button's URL
 
 global.region = 'India, South India, Kerala' //Country Region
 
 global.packname = '☬RED༒DRAGON࿐' //Bot Pacage Name
-global.author = '😎sithum thilina❯❯' //Author Name
+global.author = '😎𝙆.𝙋𝙧𝙖𝙗𝙝𝙖𝙨𝙝𝙖❯❯' //Author Name
 global.prefa = ['','!','.','😂','❤️','💠'] //Command Prefix eg:(.alive ,alive 😂alive)
 global.sessionName = 'session' //Session Name!
-global.sp = '⭔' //A Charactor
+global.sp = '❤️' //A Charactor
 global.dragonemoji = '🧩' // Menu emoji
 global.footer = '©_Kumuthu.' //In list menu
 global.chatbotpre = 'true'  // Chat bot true/false
 
-global.ig = 'https://github.com/prabhasha2006' //Github Account!
+global.ig = 'https://wa.me/+94750971915' //Github Account!
 
 global.mess = { // COSTOMIZE WITH YOUR LANGUAGE
 	
