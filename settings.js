@@ -24,13 +24,13 @@ My Creator is sithum thilina😎` //Costomize Alive Message (type your message i
 
 global.owner = ['+94774300679'] //Owner number in aive msg
 global.premium = ['+94750971915'] //Owner Number info
-global.ownernomer = '+94774300679' //Owner Number <<<
+global.ownernomer ='+94774300679' //Owner Number <<<
 
 global.ownername = '😎sithum thilina //Owner Name
 global.botname = ' ☬sithu༒bot࿐' //Bot Name
 
 global.button = '☰ whatsapp ☰' //Costomize A Button Name In Alive Message
-global.btnurl = '𝙆.𝙋𝙧𝙖𝙗𝙝𝙖𝙨𝙝𝙖' //Change Your Button's URL
+global.btnurl = 'https://chat.whatsapp.com/CeBzF5XXeZ8FitFpVyQIGT' //Change Your Button's URL
 
 global.region = 'India, South India, Kerala' //Country Region
 
